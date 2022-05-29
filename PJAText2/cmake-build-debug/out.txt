@@ -1,0 +1,10 @@
+Ilosc lini w pliku testing.txt: 10
+Ilosc znakow w pliku testing.txt: 123
+Ilosc lini w pliku testing.txt: 10
+a a ma 15 ma ma 33 15 ma 21 -21 21. -33 ala ale kot ala ale kot kota kota 21.0 0.15 99.15 99.15 99.15 kajak 21.37 99.15 15.99 -15.99 -21.37 2.1.3.7 -2.1.3.7 
+-15.99 -2.1.3.7 -21 -21.37 -33 0.15 15 15 15.99 2.1.3.7 21 21. 21.0 21.37 33 99.15 99.15 99.15 99.15 a a ala ala ale ale kajak kot kot kota kota ma ma ma ma 
+Ilosc liczb w pliku testing.txt: 17
+Ilosc cyfr w pliku testing.txt: 60
+Ilosc znakow w pliku testing.txt: 123
+Ilosc slow w pliku testing.txt: 34
+ala 

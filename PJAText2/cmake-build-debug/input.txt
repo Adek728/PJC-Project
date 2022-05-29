@@ -1,0 +1,1 @@
+-f testing.txt -n -c -n -o out.txt -l -l -s -s -dd -d -c -w -p ala ma kota ala

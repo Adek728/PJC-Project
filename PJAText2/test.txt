@@ -1,0 +1,6 @@
+Ilosc lini w pliku daw.txt: 1
+Ilosc znakow w pliku daw.txt: 30
+Ilosc cyfr w pliku daw.txt: 0
+Ilosc znakow (z bialymi) w pliku daw.txt: 35
+Ilosc liczb w pliku daw.txt: 0
+kutas skaut skuta stuka sutka ustak 
